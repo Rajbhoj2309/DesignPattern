@@ -1,0 +1,16 @@
+1>> Design patterns are already defined and provide an industry-standard approach to solving a recurring problem,
+ so it saves time if we sensibly use the design pattern.
+2>> Using design patterns promotes reusability that leads to more robust and highly maintainable code. 
+It helps in reducing the total cost of ownership (TCO) of the software product.
+33>> Since design patterns are already defined, it makes our code easy to understand and debug. 
+It leads to faster development and new members of the team understand it easily.
+
+Types of Pattern
+1} creational	2} structural	3} behavioral	4} Miscellaneous Design Patterns
+1} creational >> 1) singleton pattern  factory design abstract factory pattern builder pattern prototype pattern 
+2} structural >> adapter design pattern  composite pattern proxy pattern flyweight design pattern facade pattern bridge pattern decorator design pattern
+3} behavioral >> template method pattern, Mediator Pattern,Chain of Responsibility Pattern,Observer Pattern, Strategy Pattern,  
+Command Pattern, State Pattern, Visitor Pattern, Interpreter Pattern, Iterator Pattern, Memento Pattern, Template Pattern, Null Object 
+4} Miscellaneous Design Patterns >> DAO design pattern, Dependency Injection Pattern, MVC Pattern.
+
+
