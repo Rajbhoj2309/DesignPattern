@@ -6,16 +6,19 @@ It helps in reducing the total cost of ownership (TCO) of the software product.
 It leads to faster development and new members of the team understand it easily.
 
 Types of Pattern
-1} creational >>Creational design patterns provide solutions to instantiate an Object in the best possible way for specific situations.
-2} structural >>Structural design patterns provide different ways to create a Class structure (for example, using inheritance and composition to create a large Object from small Objects).
-3} behavioral >>Behavioral patterns provide a solution for better interaction between objects and how to provide loose-coupling and flexibility to extend easily.
-4} Miscellaneous Design Patterns
-1} creational >> 
-1) singleton pattern  2) factory design 3) abstract factory pattern 4) builder pattern 5)prototype pattern 
-2} structural >> 
-adapter design pattern  composite pattern proxy pattern flyweight design pattern facade pattern bridge pattern decorator design pattern
+1} creational	2} structural	3} behavioral	4} Miscellaneous Design Patterns
+1} creational >> 1) singleton pattern  2)factory design 3) abstract factory pattern 4) builder pattern 5)prototype pattern 
+2} structural >> adapter design pattern  composite pattern proxy pattern flyweight design pattern facade pattern bridge pattern decorator design pattern
 3} behavioral >> template method pattern, Mediator Pattern,Chain of Responsibility Pattern,Observer Pattern, Strategy Pattern,  
 Command Pattern, State Pattern, Visitor Pattern, Interpreter Pattern, Iterator Pattern, Memento Pattern, Template Pattern, Null Object 
 4} Miscellaneous Design Patterns >> DAO design pattern, Dependency Injection Pattern, MVC Pattern.
+
+2}1) singleton Design Pattern :a class must ensure that only single instance should be created and single object can be used by all other classes.
+
+There are two forms of singleton design patternme
+
+Early Instantiation: creation of instance at load time.
+Lazy Instantiation: creation of instance when required.
+
 
 
