@@ -15,7 +15,10 @@ Command Pattern, State Pattern, Visitor Pattern, Interpreter Pattern, Iterator P
 
 2}1) singleton Design Pattern :a class must ensure that only single instance should be created and single object can be used by all other classes.
 
+
 There are two forms of singleton design pattern
+There are two forms of singleton design patternme
+
 
 Early Instantiation: creation of instance at load time.
 Lazy Instantiation: creation of instance when required.
