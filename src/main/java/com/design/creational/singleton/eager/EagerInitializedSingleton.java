@@ -17,7 +17,7 @@ public class EagerInitializedSingleton {
 		
 		if(initialized==initialized1) {
 			
-			System.out.println("both are same");
+			System.out.println("both are same generating hashcode");
 		System.out.println(initialized.hashCode());
 		System.out.println(initialized1.hashCode());}
 		else
