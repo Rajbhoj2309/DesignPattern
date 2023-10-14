@@ -8,7 +8,7 @@ public class Bike implements Vehicle{
 	}
 	@Override
 	public int getWheel() {
-		return bikeWheel;
+		return bikeWheel;  // its return bikeWheel from Vehicle
 	}
 
 }
